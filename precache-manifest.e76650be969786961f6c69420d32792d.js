@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccd416afe761a8eaa593997668305c14",
+    "revision": "f199764e1127230a5054d02c0eeea6e6",
     "url": "/MTDSmartCardAdminPanel/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MTDSmartCardAdminPanel/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "7d3908c6a34149f7aeff",
+    "revision": "87e8c52a72e48f3e3c6f",
     "url": "/MTDSmartCardAdminPanel/static/css/main.f67ad7ff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MTDSmartCardAdminPanel/static/js/2.9f5ca83a.chunk.js"
   },
   {
-    "revision": "7d3908c6a34149f7aeff",
-    "url": "/MTDSmartCardAdminPanel/static/js/main.426b10d6.chunk.js"
+    "revision": "87e8c52a72e48f3e3c6f",
+    "url": "/MTDSmartCardAdminPanel/static/js/main.6a6b9935.chunk.js"
   },
   {
     "revision": "f6a2b5f06a6df61d3aac",
