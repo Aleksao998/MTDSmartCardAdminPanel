@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MTDSmartCardAdminPanel/static/css/main.f67ad7ff.chunk.css",
-    "main.js": "/MTDSmartCardAdminPanel/static/js/main.7ca17db1.chunk.js",
-    "main.js.map": "/MTDSmartCardAdminPanel/static/js/main.7ca17db1.chunk.js.map",
+    "main.js": "/MTDSmartCardAdminPanel/static/js/main.c05c060d.chunk.js",
+    "main.js.map": "/MTDSmartCardAdminPanel/static/js/main.c05c060d.chunk.js.map",
     "runtime~main.js": "/MTDSmartCardAdminPanel/static/js/runtime~main.7f2ad8dc.js",
     "runtime~main.js.map": "/MTDSmartCardAdminPanel/static/js/runtime~main.7f2ad8dc.js.map",
     "static/css/2.d0176e96.chunk.css": "/MTDSmartCardAdminPanel/static/css/2.d0176e96.chunk.css",
     "static/js/2.9f5ca83a.chunk.js": "/MTDSmartCardAdminPanel/static/js/2.9f5ca83a.chunk.js",
     "static/js/2.9f5ca83a.chunk.js.map": "/MTDSmartCardAdminPanel/static/js/2.9f5ca83a.chunk.js.map",
     "index.html": "/MTDSmartCardAdminPanel/index.html",
-    "precache-manifest.544d481ab5392b3e772d08fd68d48d03.js": "/MTDSmartCardAdminPanel/precache-manifest.544d481ab5392b3e772d08fd68d48d03.js",
+    "precache-manifest.25a75e4b009f3dc06235f229d38e1d6e.js": "/MTDSmartCardAdminPanel/precache-manifest.25a75e4b009f3dc06235f229d38e1d6e.js",
     "service-worker.js": "/MTDSmartCardAdminPanel/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/MTDSmartCardAdminPanel/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.f67ad7ff.chunk.css.map": "/MTDSmartCardAdminPanel/static/css/main.f67ad7ff.chunk.css.map",
